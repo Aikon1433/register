@@ -1,0 +1,11 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+  "subdomain": "slobikes",
+  "owner": {
+    "username": "aikon1433",
+    "email": "Jackyliu4521@gmail.com"
+  },
+  "record": {
+    "CNAME": "aikon1433.github.io"
+  }
+}
